@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/cmake-build/Applicazione_diagrammi_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/cmake-build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/cmake-build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi",
+	"CMAKE_SOURCE_DIR" : "C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi",
+	"INCLUDE_DIR" : "C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/cmake-build/Applicazione_diagrammi_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/Icons/save.png",
+		"C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/Icons/delete_bin.png",
+		"C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/Icons/save_as.png",
+		"C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/Icons/add_black.png",
+		"C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/Icons/new_circle.png",
+		"C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/Icons/edit_pencil_black.png",
+		"C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/Icons/fullscreen_icon.png",
+		"C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/Icons/save_as_image.png",
+		"C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/Icons/dark_mode.png",
+		"C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/Icons/light_mode.png"
+	],
+	"LOCK_FILE" : "C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/cmake-build/CMakeFiles/Applicazione_diagrammi_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/5.9.5/mingw53_32/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/cmake-build/CMakeFiles/Applicazione_diagrammi_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/resources.qrc",
+	"VERBOSITY" : 0
+}

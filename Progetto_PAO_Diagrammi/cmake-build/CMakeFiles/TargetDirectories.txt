@@ -1,0 +1,4 @@
+C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/cmake-build/CMakeFiles/Applicazione_diagrammi.dir
+C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/cmake-build/CMakeFiles/edit_cache.dir
+C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/cmake-build/CMakeFiles/rebuild_cache.dir
+C:/Users/teoco/OneDrive/Documents/Applicazione_diagrammi/cmake-build/CMakeFiles/Applicazione_diagrammi_autogen.dir
